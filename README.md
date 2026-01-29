@@ -4,6 +4,5 @@
 
 <h2> About me </h2>
 
-- 📑 I'm studying Computer Science.
+- 📑 I'm majoring in Software Engineering.
 - 🎵 I'm interested in music, Anime & languages.
-- 💪🏻 Lot to see & lot to learn!
